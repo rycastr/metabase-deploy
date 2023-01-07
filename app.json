@@ -14,7 +14,6 @@
   "success_url": "/setup",
   "env": {},
   "addons": [
-    "heroku-postgresql"
   ],
   "buildpacks": [
     {
